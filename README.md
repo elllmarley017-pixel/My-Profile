@@ -1,8 +1,10 @@
 > «Modern • Professional • Minimalist»
 
-`profile.md` is a GitHub profile page developed using Markdown elements consistently to produce a more attractive, structured, and professional appearance.
+`profile.md` is a GitHub profile page that I developed with a very attractive, structured, and professional appearance.is a GitHub profile page that I developed with a very attractive, structured, and professional appearance.
 
 [![View profile.md](https://img.shields.io/badge/View-profile.md-00FF9C?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/elllmarley017-pixel/My-Profile/blob/main/profile.md)
+
+---
 
 ## ✨ Features
 
